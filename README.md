@@ -1,7 +1,5 @@
 # Kommentarer til opgave 3
 
-Vi opdaterer programmet løbende, så hvis ikke programmet ligner hvad der kan ses i YT-videoen, så er det derfor. Vi henviser derfor til
-
 Der vil være hjemmelavet kodekommentering til den rigtig aflevering af projektet, og vi beklager meget, at det er blevet lavet endnu!
 
 NB: Når vi selv har downloadet koden fra Github, er der kommet nogle advarsler når vi har kørt "expo start" omkring Watchman på Mac. Vi håber ikke I får samme problem, men koden virker stadig som tiltænkt, uanset om du trykker "tilføj til papirkurv" eller "ignorér". Vi håber derfor ikke at det volder jer nogen problemer :)
